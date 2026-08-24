@@ -31,81 +31,117 @@
         {{ .Param "heading_team" }}
       </h1>
     </div>
-    <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+    <div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-2">
       <div class="group block lg:col-span-1">
         <div class="relative mb-6">
           <img
-            src='{{ with .Resources.Get "img/anna-herranz-surralles.jpeg" }}{{ .RelPermalink }}{{ end }}'
-            alt='{{ .Param "anna" }}'
+            src='{{ with .Resources.Get "img/iskander-de-bruycker.png" }}{{ .RelPermalink }}{{ end }}'
+            alt='{{ .Param "iskander" }}'
             class="mx-auto h-40 w-40 rounded-full border border-solid border-transparent object-cover object-top transition-all duration-500 group-hover:border-blue-400"
           />
         </div>
         <h3
           class="mb-2 text-center text-xl font-semibold text-gray-900 capitalize transition-all duration-500 group-hover:text-blue-400"
         >
-          {{ .Param "anna" }}
+          {{ .Param "iskander" }}
         </h3>
         <span
           class="block text-center text-gray-400 transition-all duration-500 group-hover:text-gray-900"
-          >{{ $html := .Param "anna_affiliation" }}{{ $html | safeHTML }}</span
+          >{{ $html := .Param "iskander_affiliation" }}{{ $html | safeHTML
+          }}</span
         >
         <a
-          href="https://www.maastrichtuniversity.nl/herranz-surralles"
+          href="#"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a
         >
-        <div class="text-sm text-gray-500">{{ .Param "anna_bio" }}</div>
+        <div class="text-sm text-gray-500">
+          {{ $html := .Param "iskander_bio" }}{{ $html | safeHTML }}
+        </div>
       </div>
       <div class="group block lg:col-span-1">
         <div class="relative mb-6">
           <img
-            src='{{ with .Resources.Get "img/johan-adriaensen.jpeg" }}{{ .RelPermalink }}{{ end }}'
-            alt='{{ .Param "johan" }}'
+            src='{{ with .Resources.Get "img/britt-vande-walle.jpg" }}{{ .RelPermalink }}{{ end }}'
+            alt='{{ .Param "britt" }}'
             class="mx-auto h-40 w-40 rounded-full border border-solid border-transparent object-cover transition-all duration-500 group-hover:border-blue-400"
           />
         </div>
         <h3
           class="mb-2 text-center text-xl font-semibold text-gray-900 capitalize transition-all duration-500 group-hover:text-blue-400"
         >
-          {{ .Param "johan" }}
+          {{ .Param "britt" }}
         </h3>
         <span
           class="block text-center text-gray-400 transition-all duration-500 group-hover:text-gray-900"
-          >{{ $html := .Param "johan_affiliation" }}{{ $html | safeHTML }}</span
+          >{{ $html := .Param "britt_affiliation" }}{{ $html | safeHTML }}</span
         >
         <a
-          href="https://www.maastrichtuniversity.nl/jsc-adriaensen"
+          href="#"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a
         >
-        <div class="text-sm text-gray-500">{{ .Param "johan_bio" }}</div>
+        <div class="text-sm text-gray-500">
+          {{ $html := .Param "britt_bio" }}{{ $html | safeHTML }}
+        </div>
       </div>
       <div class="group block lg:col-span-1">
         <div class="relative mb-6">
           <img
-            src='{{ with .Resources.Get "img/odile-feltkamp.jpeg" }}{{ .RelPermalink }}{{ end }}'
-            alt='{{ .Param "odile" }}'
+            src='{{ with .Resources.Get "img/susanna-eiselt.jpg" }}{{ .RelPermalink }}{{ end }}'
+            alt='{{ .Param "susanna" }}'
             class="mx-auto h-40 w-40 rounded-full border border-solid border-transparent object-cover object-top transition-all duration-500 group-hover:border-blue-400"
           />
         </div>
         <h3
           class="mb-2 text-center text-xl font-semibold text-gray-900 capitalize transition-all duration-500 group-hover:text-blue-400"
         >
-          {{ .Param "odile" }}
+          {{ .Param "susanna" }}
         </h3>
         <span
           class="block text-center text-gray-400 transition-all duration-500 group-hover:text-gray-900"
-          >{{ $html := .Param "odile_affiliation" }}{{ $html | safeHTML }}</span
+          >{{ $html := .Param "susanna_affiliation" }}{{ $html | safeHTML
+          }}</span
         >
         <a
-          href="https://www.maastrichtuniversity.nl/odile-feltkamp"
+          href="#"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a
         >
-        <div class="text-sm text-gray-500">{{ .Param "odile_bio" }}</div>
+        <div class="text-sm text-gray-500">
+          {{ $html := .Param "susanna_bio" }}{{ $html | safeHTML }}
+        </div>
+      </div>
+      <div class="group block lg:col-span-1">
+        <div class="relative mb-6">
+          <img
+            src='{{ with .Resources.Get "img/sandra-martinez-boehme.jpg" }}{{ .RelPermalink }}{{ end }}'
+            alt='{{ .Param "sandra" }}'
+            class="mx-auto h-40 w-40 rounded-full border border-solid border-transparent object-cover object-top transition-all duration-500 group-hover:border-blue-400"
+          />
+        </div>
+        <h3
+          class="mb-2 text-center text-xl font-semibold text-gray-900 capitalize transition-all duration-500 group-hover:text-blue-400"
+        >
+          {{ $html := .Param "sandra" }}{{ $html | safeHTML }}
+        </h3>
+        <span
+          class="block text-center text-gray-400 transition-all duration-500 group-hover:text-gray-900"
+          >{{ $html := .Param "sandra_affiliation" }}{{ $html | safeHTML
+          }}</span
+        >
+        <a
+          href="#"
+          target="_blank"
+          class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
+          >{{ .Param "link_profile_text" }}</a
+        >
+        <div class="text-sm text-gray-500">
+          {{ $html := .Param "sandra_bio" }}{{ $html | safeHTML }}
+        </div>
       </div>
     </div>
   </div>
@@ -139,8 +175,10 @@
       />
       {{ end }}
       <div class="mt-10 ml-10 text-base text-gray-500">
-        <p>{{ $html := .Param "illustrations_credit_text" }}{{ $html | safeHTML
-          }}</p>
+        <p>
+          {{ $html := .Param "illustrations_credit_text" }}{{ $html | safeHTML
+          }}
+        </p>
       </div>
     </div>
   </div>

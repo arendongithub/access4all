@@ -4,8 +4,19 @@
 -->
 
 <div class="mx-auto flex max-w-5xl justify-between px-6 py-12">
+  <!--
   <div>
     <p class="text-4xl font-bold text-gray-900">{{ .Site.Title }}</p>
+  </div>
+-->
+  <div>
+    {{ with resources.Get "images/access4all-logo.png" }}
+    <img
+      src="{{ .RelPermalink }}"
+      alt="ACCESS4ALL logo"
+      class="hidden h-15 lg:block"
+    />
+    {{ end }}
   </div>
   <div>
     {{ with resources.Get "images/umlogo.png" }}

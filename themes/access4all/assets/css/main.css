@@ -161,9 +161,11 @@
     display: list-item;
   }
   ol,
-  ul,
   menu {
     list-style: none;
+  }
+  ul {
+    list-style: disc inside;
   }
   img,
   svg,
@@ -367,6 +369,9 @@
   }
   .h-10 {
     height: calc(var(--spacing) * 10);
+  }
+  .h-15 {
+    height: calc(var(--spacing) * 15);
   }
   .h-40 {
     height: calc(var(--spacing) * 40);

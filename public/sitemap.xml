@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/news-events/20260319-news/</loc>
-    <lastmod>2026-03-19T21:10:00+01:00</lastmod>
+    <loc>http://localhost:1313/news-events/pas_festival/</loc>
+    <lastmod>2026-09-05T14:46:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news-events/sgeu_2026/</loc>
+    <lastmod>2026-07-01T11:08:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news-events/ces_2026/</loc>
+    <lastmod>2026-06-18T14:46:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news-events/pol_etmaal/</loc>
+    <lastmod>2026-06-11T11:08:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/news-events/douzelage/</loc>
+    <lastmod>2026-03-22T12:10:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-17T07:21:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/news-events/20260306-news/</loc>
-    <lastmod>2026-03-06T21:10:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/news-events/20260304-event/</loc>
-    <lastmod>2026-03-04T21:10:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/news-events/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
@@ -24,13 +30,19 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/2024-bauerle/</loc>
-  </url><url>
     <loc>http://localhost:1313/publications/2024-surralles/</loc>
   </url><url>
     <loc>http://localhost:1313/publications/2025-adriaensen/</loc>
   </url><url>
+    <loc>http://localhost:1313/publications/adriaensen_2016/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/adriaensen_postnikov_2022/</loc>
+  </url><url>
     <loc>http://localhost:1313/publications/coming-soon/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/herranz_2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/herranz_damro_eckert_2024/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

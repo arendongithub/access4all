@@ -1,61 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Geoeconomic Fault Lines</title>
+    <title>Home on ACCESS4ALL</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Geoeconomic Fault Lines</description>
+    <description>Recent content in Home on ACCESS4ALL</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 21:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:46:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Petrol Wars: Oil Price Volatility and the Strategic Implications for Nations</title>
-      <link>http://localhost:1313/news-events/20260319-news/</link>
-      <pubDate>Thu, 19 Mar 2026 21:10:00 +0100</pubDate>
-      <guid>http://localhost:1313/news-events/20260319-news/</guid>
-      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem.</description>
+      <title>Geopolitics in Europe: What is the impact on citizens?</title>
+      <link>http://localhost:1313/news-events/pas_festival/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news-events/pas_festival/</guid>
+      <description>Presentation at the Maastricht PAS festival</description>
     </item>
     <item>
-      <title>Beyond Borders: How Digital Currency is Changing the Face of Geopolitics</title>
-      <link>http://localhost:1313/news-events/20260306-news/</link>
-      <pubDate>Fri, 06 Mar 2026 21:10:00 +0100</pubDate>
-      <guid>http://localhost:1313/news-events/20260306-news/</guid>
-      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem.</description>
+      <title>SGEU conference Catania</title>
+      <link>http://localhost:1313/news-events/sgeu_2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news-events/sgeu_2026/</guid>
+      <description>Anna Herranz-Surrallés and Johan Adriaensen will present at the SGEU conference in Catania</description>
     </item>
     <item>
-      <title>Who implements the EU’s geoeconomic agenda?</title>
-      <link>http://localhost:1313/news-events/20260304-event/</link>
-      <pubDate>Wed, 04 Mar 2026 21:10:00 +0100</pubDate>
-      <guid>http://localhost:1313/news-events/20260304-event/</guid>
-      <description>Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem.</description>
+      <title>CES Conference Dublin</title>
+      <link>http://localhost:1313/news-events/ces_2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news-events/ces_2026/</guid>
+      <description>Odile Feltkamp will be presenting at the CES conference in Dublin</description>
+    </item>
+    <item>
+      <title>Politicologenetmaal conference Ghent</title>
+      <link>http://localhost:1313/news-events/pol_etmaal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news-events/pol_etmaal/</guid>
+      <description>The team will be presenting at the Politicologenetmaal conference in Ghent</description>
+    </item>
+    <item>
+      <title>Geopolitiek in Europa</title>
+      <link>http://localhost:1313/news-events/douzelage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news-events/douzelage/</guid>
+      <description>Lezing voor de stichting Douzelage</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;In a context of heightened geopolitical pressures and heightened competition for technological dominance, the EU has adopted a series of instruments to protect itself from economic coercion. Yet, internal divisions are becoming acute when implementing these new measures. So, what drives support or opposition to geoeconomic policies in the EU?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;GeoeconomicFaultLines examines how the geoeconomic turn is transforming the coalitional politics within the EU. Our research focuses on mapping and explaining the political cleavages activated by these new instruments. By understanding these patterns of consensus and contestation, we aim to identify the political barriers for the EU to develop strategic autonomy in a world of mounting competition.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/2024-bauerle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024-bauerle/</guid>
-      <description></description>
+      <description>&lt;p&gt;In a context of heightened geopolitical pressures and heightened competition for technological dominance, the EU has adopted a series of instruments to protect itself from economic coercion. Yet, internal divisions are becoming acute when implementing these new measures. So, what drives support or opposition to geoeconomic policies in the EU?&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt;Geoeconomic FaultLines examines how the geoeconomic turn is transforming the coalitional politics within the EU. Our research focuses on mapping and explaining the political cleavages activated by these new instruments. By understanding these patterns of consensus and contestation, we aim to identify the political barriers for the EU to develop strategic autonomy in a world of mounting competition..&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>http://localhost:1313/publications/2024-surralles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/2024-surralles/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod&#xA;tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This article sets a common conceptual ground to assess whether, how and why the single European market is experiencing such a geoeconomic turn and how EU responses are shaping other international actors in the process.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>http://localhost:1313/publications/2025-adriaensen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/2025-adriaensen/</guid>
-      <description>&lt;p&gt;The aspiration of the EU to pursue a geopolitical agenda has raised both interest and scepticism within the academic and policy community.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This article advocates for the systematic study of the institutional impacts of geopoliticisation on the European Union, offer a conceptual framework to steer this emerging agenda, and provide an exploration into the first empirical manifestations of the emerging shifts in the EU’s polity as presented in the literature so far.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/adriaensen_2016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/adriaensen_2016/</guid>
+      <description>&lt;p&gt;This book studies the relationship between administrative capacity and a member state’s influence in the European Union. More specifically, it studies member states’ ability to exert control over the European Commission during trade negotiations. But what determines administrative capacity and how do member states ensure their preferences are defended during trade negotiations? A combination of qualitative fieldwork and survey-analysis provides the answer. Interviews in Belgium, Poland, Estonia and Spain offer a privileged insight into the functioning of national trade administrations and its effects on their behavior in the Council of Ministers. Through survey data, these findings are further corroborated.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/adriaensen_postnikov_2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/adriaensen_postnikov_2022/</guid>
+      <description>&lt;p&gt;This book provides a first systematic study of the broader international context in which EU trade agreements are conceived, negotiated, and designed. Building on a refined conceptualisation of geo-economics, the book develops a cogent framework that combines insights from scholarship on the design of free trade agreements with ideas from foreign policy analysis.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
@@ -63,6 +84,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publications/coming-soon/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/herranz_2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/herranz_2024/</guid>
+      <description>&lt;p&gt;Building on current debates on the ‘geopoliticization’ of foreign economic policies, this paper sets out a conceptual framework to assess the extent to which the energy transition is becoming geopoliticized in the European Union (EU) and its impact on international energy relations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/herranz_damro_eckert_2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/herranz_damro_eckert_2024/</guid>
+      <description>&lt;p&gt;The Issue offers one of the first comprehensive analyses of the EU’s role the “geoeconomic turn” in international affairs, covering a wide range of areas (i.a. trade, energy, defence, digital economy).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
