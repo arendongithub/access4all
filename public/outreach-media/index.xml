@@ -16,32 +16,11 @@
       <description>Presentation at the Maastricht PAS festival</description>
     </item>
     <item>
-      <title>SGEU conference Catania</title>
-      <link>http://localhost:1313/outreach-media/sgeu_2026/</link>
+      <title>Breaking the “old boys’ club” – How socio-demographics shape lobbying access in the EU</title>
+      <link>http://localhost:1313/outreach-media/lse_oldboys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/sgeu_2026/</guid>
-      <description>Anna Herranz-Surrallés and Johan Adriaensen will present at the SGEU conference in Catania</description>
-    </item>
-    <item>
-      <title>CES Conference Dublin</title>
-      <link>http://localhost:1313/outreach-media/ces_2026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/ces_2026/</guid>
-      <description>Odile Feltkamp will be presenting at the CES conference in Dublin</description>
-    </item>
-    <item>
-      <title>Politicologenetmaal conference Ghent</title>
-      <link>http://localhost:1313/outreach-media/pol_etmaal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/pol_etmaal/</guid>
-      <description>The team will be presenting at the Politicologenetmaal conference in Ghent</description>
-    </item>
-    <item>
-      <title>Geopolitiek in Europa</title>
-      <link>http://localhost:1313/outreach-media/douzelage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/douzelage/</guid>
-      <description>Lezing voor de stichting Douzelage</description>
+      <guid>http://localhost:1313/outreach-media/lse_oldboys/</guid>
+      <description>Do the socio-demographic characteristics of lobbyists affect their access to Members of the European Parliament?</description>
     </item>
   </channel>
 </rss>

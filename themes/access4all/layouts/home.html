@@ -50,7 +50,7 @@
       {{ end }}
     </div>
     <div class="mt-2 p-2">
-      <a href="{{ .Site.BaseURL }}/news-events">
+      <a href="{{ .Site.BaseURL }}/outreach-media">
         <h2 class="font-semibold text-blue-950 text-xl hover:text-blue-400">
           {{ .Param "heading_news_events" }}
         </h2></a
@@ -103,7 +103,7 @@
       >
       <ul class="mt-6 ml-3 list-outside list-disc text-sm text-gray-600">
         {{ range where (site.RegularPages.ByParam "publication_date").Reverse
-        "Params.publication_type" "related_reading" | first 3 }}
+        "Params.publication_type" "project" | first 3 }}
         <li class="mt-4 hover:text-blue-400">
           <a
             href='{{ .Param "publication_url" }}'

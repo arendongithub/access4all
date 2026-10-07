@@ -16,32 +16,11 @@
       <description>Presentation at the Maastricht PAS festival</description>
     </item>
     <item>
-      <title>SGEU conference Catania</title>
-      <link>http://localhost:1313/outreach-media/sgeu_2026/</link>
+      <title>Breaking the “old boys’ club” – How socio-demographics shape lobbying access in the EU</title>
+      <link>http://localhost:1313/outreach-media/lse_oldboys/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/sgeu_2026/</guid>
-      <description>Anna Herranz-Surrallés and Johan Adriaensen will present at the SGEU conference in Catania</description>
-    </item>
-    <item>
-      <title>CES Conference Dublin</title>
-      <link>http://localhost:1313/outreach-media/ces_2026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/ces_2026/</guid>
-      <description>Odile Feltkamp will be presenting at the CES conference in Dublin</description>
-    </item>
-    <item>
-      <title>Politicologenetmaal conference Ghent</title>
-      <link>http://localhost:1313/outreach-media/pol_etmaal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/pol_etmaal/</guid>
-      <description>The team will be presenting at the Politicologenetmaal conference in Ghent</description>
-    </item>
-    <item>
-      <title>Geopolitiek in Europa</title>
-      <link>http://localhost:1313/outreach-media/douzelage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/outreach-media/douzelage/</guid>
-      <description>Lezing voor de stichting Douzelage</description>
+      <guid>http://localhost:1313/outreach-media/lse_oldboys/</guid>
+      <description>Do the socio-demographic characteristics of lobbyists affect their access to Members of the European Parliament?</description>
     </item>
     <item>
       <title>About</title>
@@ -52,52 +31,38 @@
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/2024-surralles/</link>
+      <link>http://localhost:1313/publications/debruycker-2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2024-surralles/</guid>
-      <description>&lt;p&gt;This article sets a common conceptual ground to assess whether, how and why the single European market is experiencing such a geoeconomic turn and how EU responses are shaping other international actors in the process.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/2025-adriaensen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/2025-adriaensen/</guid>
-      <description>&lt;p&gt;This article advocates for the systematic study of the institutional impacts of geopoliticisation on the European Union, offer a conceptual framework to steer this emerging agenda, and provide an exploration into the first empirical manifestations of the emerging shifts in the EU’s polity as presented in the literature so far.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/adriaensen_2016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/adriaensen_2016/</guid>
-      <description>&lt;p&gt;This book studies the relationship between administrative capacity and a member state’s influence in the European Union. More specifically, it studies member states’ ability to exert control over the European Commission during trade negotiations. But what determines administrative capacity and how do member states ensure their preferences are defended during trade negotiations? A combination of qualitative fieldwork and survey-analysis provides the answer. Interviews in Belgium, Poland, Estonia and Spain offer a privileged insight into the functioning of national trade administrations and its effects on their behavior in the Council of Ministers. Through survey data, these findings are further corroborated.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/adriaensen_postnikov_2022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/adriaensen_postnikov_2022/</guid>
-      <description>&lt;p&gt;This book provides a first systematic study of the broader international context in which EU trade agreements are conceived, negotiated, and designed. Building on a refined conceptualisation of geo-economics, the book develops a cogent framework that combines insights from scholarship on the design of free trade agreements with ideas from foreign policy analysis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://localhost:1313/publications/coming-soon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/coming-soon/</guid>
+      <guid>http://localhost:1313/publications/debruycker-2025/</guid>
       <description></description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/herranz_2024/</link>
+      <link>http://localhost:1313/publications/debruycker-2026a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/herranz_2024/</guid>
-      <description>&lt;p&gt;Building on current debates on the ‘geopoliticization’ of foreign economic policies, this paper sets out a conceptual framework to assess the extent to which the energy transition is becoming geopoliticized in the European Union (EU) and its impact on international energy relations.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publications/debruycker-2026a/</guid>
+      <description></description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/herranz_damro_eckert_2024/</link>
+      <link>http://localhost:1313/publications/debruycker-2026b/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/herranz_damro_eckert_2024/</guid>
-      <description>&lt;p&gt;The Issue offers one of the first comprehensive analyses of the EU’s role the “geoeconomic turn” in international affairs, covering a wide range of areas (i.a. trade, energy, defence, digital economy).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publications/debruycker-2026b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/martinez-2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/martinez-2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/vandewalle-2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/vandewalle-2026/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
