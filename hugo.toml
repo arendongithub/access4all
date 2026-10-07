@@ -3,10 +3,6 @@ languageCode = 'en-us'
 title = 'ACCESS4ALL'
 theme = 'access4all'
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
 [params]
   nwo_credit = 'This project is funded by the NWO, grant number VI.Vidi.221R.036'
 
