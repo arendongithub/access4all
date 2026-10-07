@@ -12,7 +12,7 @@
 <!--Project description -->
 <div class="mx-auto mt-6 flex max-w-5xl px-6 sm:gap-x-6">
   <div class="hidden sm:block sm:w-1/2">
-    {{ with resources.Get "images/Spot_1_1200.png" }}
+    {{ with resources.Get "images/eu_image_monochrome.png" }}
     <img
       src="{{ .RelPermalink }}"
       class="aspect-square w-full rounded-lg object-cover shadow-2xl"
@@ -110,7 +110,8 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            {{ $html := .Param "publication_title" }}{{ $html | safeHTML }} <!--{{
+            {{ $html := .Param "publication_title" }}{{ $html | safeHTML }}
+            <!--{{
             with .Content }}
             <div class="mt-2 border-l-4 border-blue-400 pl-2 italic">
               {{ . }}

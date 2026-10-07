@@ -1,4 +1,5 @@
 /*! tailwindcss v4.2.0 | MIT License | https://tailwindcss.com */
+@import "tailwindcss";
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,regular,500,600,700,800,300italic,italic,500italic,600italic,700italic,800italic&#038;subset=latin,latin-ext&#038;display=swap");
 @layer properties;
 @layer theme, base, components, utilities;

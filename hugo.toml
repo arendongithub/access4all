@@ -8,7 +8,7 @@ theme = 'access4all'
     dir = ':cacheDir/images'
 
 [params]
-  nwo_credit = 'This project is funded by the NWO, grant number xxx'
+  nwo_credit = 'This project is funded by the NWO, grant number VI.Vidi.221R.036'
 
 [menu]
 [[menu.main]]
@@ -16,16 +16,16 @@ theme = 'access4all'
   url = '/'
   weight = 10
 [[menu.main]]
-  name = 'News & Events'
-  url = '/news-events'
+  name = 'About'
+  url = '/about'
   weight = 20
 [[menu.main]]
   name = 'Publications'
   url = '/publications'
   weight = 30
 [[menu.main]]
-  name = 'About'
-  url = '/about'
+  name = 'Outreach & Media'
+  url = '/news-events'
   weight = 40
 
 [frontmatter]
