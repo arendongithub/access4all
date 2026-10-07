@@ -292,18 +292,6 @@
   .h-10 {
     height: calc(var(--spacing) * 10);
   }
-  .h-12 {
-    height: calc(var(--spacing) * 12);
-  }
-  .h-15 {
-    height: calc(var(--spacing) * 15);
-  }
-  .h-20 {
-    height: calc(var(--spacing) * 20);
-  }
-  .h-30 {
-    height: calc(var(--spacing) * 30);
-  }
   .h-40 {
     height: calc(var(--spacing) * 40);
   }
@@ -622,12 +610,6 @@
     }
     .sm\:w-1\/2 {
       width: calc(1 / 2 * 100%);
-    }
-    .sm\:w-1\/3 {
-      width: calc(1 / 3 * 100%);
-    }
-    .sm\:w-2\/3 {
-      width: calc(2 / 3 * 100%);
     }
     .sm\:items-center {
       align-items: center;

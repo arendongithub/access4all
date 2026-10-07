@@ -1,7 +1,7 @@
 +++
-title = 'News & Events'
+title = 'Outreach & Media'
 date = 2023-01-01T08:30:00-07:00
-layout = 'news-events'
+layout = 'outreach-media'
 type = 'custom_page'
 draft = false
 +++

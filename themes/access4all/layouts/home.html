@@ -57,7 +57,7 @@
       >
       <ul class="mt-6 list-inside list-disc text-sm text-gray-600">
         {{ range where site.RegularPages.ByDate.Reverse "Params.post_type" "in"
-        (slice "event" "news") | first 3 }}
+        (slice "outreach" "media") | first 3 }}
         <li class="mt-4 hover:text-blue-400">
           <a
             href="{{ .RelPermalink }}"
@@ -65,10 +65,10 @@
             rel="noopener noreferrer"
           >
             <span class="font-semibold">
-              {{ $type := .Param "post_type" }} {{ if eq $type "event" }} {{ $t
-              := .Param "event_date"}} {{ $t.Day }} {{ $t.Month }} {{ $t.Year }}
-              {{ else }} {{ $t := .Date}} {{ $t.Day }} {{ $t.Month}} {{ $t.Year
-              }} {{ end }}</span
+              {{ $type := .Param "post_type" }} {{ if eq $type "outreach" }} {{
+              $t := .Param "outreach_date"}} {{ $t.Day }} {{ $t.Month }} {{
+              $t.Year }} {{ else }} {{ $t := .Date}} {{ $t.Day }} {{ $t.Month}}
+              {{ $t.Year }} {{ end }}</span
             >
             - {{ .Title }}
             <span

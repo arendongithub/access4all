@@ -6,8 +6,8 @@ draft = false
   heading_project_description = 'Project description'
   button_read_more = 'Read more'
   heading_in_the_spotlight = 'In the spotlight'
-  heading_news_events = 'News & Events'
-  heading_publications_data = 'Publications & Data'
+  heading_news_events = 'Outreach & Media'
+  heading_publications_data = 'Publications'
 +++
 
 <!-- Project description text on the home page. -->

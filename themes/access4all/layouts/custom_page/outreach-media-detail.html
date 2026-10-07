@@ -1,23 +1,23 @@
 {{ define "main" }}
 
-<!-- News & Events Detail -->
+<!-- Outreach & Media Detail -->
 
 <section class="py-6">
   <div class="mx-auto max-w-5xl px-6">
     <div class="mb-12 mt-6">
       <h1 class="text-4xl font-semibold text-blue-400">
-        {{ $page := .Page.GetPage "/news-events" }}{{ $page.Title }}
+        {{ $page := .Page.GetPage "/outreach-media" }}{{ $page.Title }}
       </h1>
     </div>
     <div class="grid grid-cols-1 gap-6 text-gray-700 lg:grid-cols-3">
-      <!-- Event or News Title  -->
+      <!-- Outreach or Media Title  -->
       <div class="lg:col-span-3">
         <h2 class="mb-6 text-xl font-semibold text-gray-900">{{ .Title }}</h2>
       </div>
 
-      <!--Event Details-->
+      <!--Outreach Details-->
       <div class="border-r-1 border-blue-400 text-sm">
-        {{ $type := .Param "post_type" }} {{ if eq $type "event" }}
+        {{ $type := .Param "post_type" }} {{ if eq $type "outreach" }}
         <!-- Place-->
         <div class="mb-2">
           <div class="inline-block align-top">
@@ -43,7 +43,8 @@
           </div>
           <div class="inline-block">
             <p>
-              {{ $html := .Param "event_location_full" }}{{ $html | safeHTML }}
+              {{ $html := .Param "outreach_location_full" }}{{ $html | safeHTML
+              }}
             </p>
           </div>
         </div>
@@ -68,7 +69,7 @@
           </div>
           <div class="inline-block">
             <p>
-              {{ $t := .Param "event_date"}} {{ $t.Day }}-{{ $t.Month | int
+              {{ $t := .Param "outreach_date"}} {{ $t.Day }}-{{ $t.Month | int
               }}-{{ $t.Year }}
             </p>
           </div>
@@ -93,7 +94,7 @@
             </svg>
           </div>
           <div class="inline-block">
-            <p>{{ .Param "event_time" }}</p>
+            <p>{{ .Param "outreach_time" }}</p>
           </div>
         </div>
 
@@ -118,10 +119,10 @@
           <div class="inline-block text-blue-400">
             <p>
               <a
-                href='{{ .Param "event_url" }}'
+                href='{{ .Param "outreach_url" }}'
                 target="_blank"
                 class="hover:underline"
-                >{{ .Param "event_url" }}</a
+                >{{ .Param "outreach_url" }}</a
               >
             </p>
           </div>
@@ -168,12 +169,12 @@
             </svg>
           </div>
           <div class="inline-block">
-            <p>{{ .Param "news_author" }}</p>
+            <p>{{ .Param "media_author" }}</p>
           </div>
         </div>
         {{ end }}
       </div>
-      <!-- Event Description -->
+      <!-- Outreach Description -->
       <div class="lg:col-span-2">
         <p class="text-gray-500">{{ .Content }}</p>
       </div>

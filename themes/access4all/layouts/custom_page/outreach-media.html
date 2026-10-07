@@ -3,13 +3,13 @@
 <!-- List items -->
 <div class="mx-auto mt-12 max-w-5xl px-6">
   <div class="mb-12">
-    <h1 class="text-4xl font-semibold text-blue-400">News & Events</h1>
+    <h1 class="text-4xl font-semibold text-blue-400">Outreach & Media</h1>
   </div>
   <div
     class="grid grid-cols-1 gap-6 text-gray-700 md:grid-cols-2 lg:grid-cols-3"
   >
     {{ range where site.RegularPages.ByDate.Reverse "Params.post_type" "in"
-    (slice "event" "news") }}
+    (slice "outreach" "media") }}
     <div
       class="group block rounded border border-gray-200 hover:border-blue-400"
     >
@@ -49,13 +49,13 @@
               </div>
               <div class="inline-block">
                 <p>
-                  {{ $type := .Param "post_type" }} {{ if eq $type "event" }} {{
-                  $t := .Param "event_date"}} {{ $t.Day }}-{{ $t.Month | int
-                  }}-{{ $t.Year }} | {{ else }} {{ $t := .Date}} {{ $t.Day }}-{{
-                  $t.Month | int }}-{{ $t.Year }} {{ end }}
+                  {{ $type := .Param "post_type" }} {{ if eq $type "outreach" }}
+                  {{ $t := .Param "outreach_date"}} {{ $t.Day }}-{{ $t.Month |
+                  int }}-{{ $t.Year }} | {{ else }} {{ $t := .Date}} {{ $t.Day
+                  }}-{{ $t.Month | int }}-{{ $t.Year }} {{ end }}
                 </p>
               </div>
-              {{ $type := .Param "post_type" }} {{ if eq $type "event" }}
+              {{ $type := .Param "post_type" }} {{ if eq $type "outreach" }}
               <div class="inline-block align-bottom">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@
                 </svg>
               </div>
               <div class="inline-block">
-                <p>{{ .Param "event_location" }}</p>
+                <p>{{ .Param "outreach_location" }}</p>
               </div>
               {{ end }}
             </div>
