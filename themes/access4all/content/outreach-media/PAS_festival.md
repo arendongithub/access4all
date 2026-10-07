@@ -7,7 +7,7 @@ type = 'custom_page'
 draft = false
 [params]
   post_type = 'outreach' # post_type is 'outreach' or 'media'
-  post_thumbnail = 'pas_festival.png'
+  post_thumbnail = 'pas_festival_maastricht.png'
   outreach_date = 2026-09-05T14:46:00.000+02:00
   outreach_location = 'Maastricht'
   outreach_location_full = 'Bouillonstraat 3 — B 0.113, Maastricht'
