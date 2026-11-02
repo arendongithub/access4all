@@ -133,6 +133,33 @@
           {{ $html := .Param "sandra_bio" }}{{ $html | safeHTML }}
         </div>
       </div>
+      <div class="group block lg:col-span-1">
+        <div class="relative mb-6">
+          <img
+            src='{{ with .Resources.Get "img/stine-bartram.jpeg" }}{{ .RelPermalink }}{{ end }}'
+            alt='{{ .Param "sandra" }}'
+            class="mx-auto h-40 w-40 rounded-full border border-solid border-transparent object-cover transition-all duration-500 group-hover:border-blue-400"
+          />
+        </div>
+        <h3
+          class="mb-2 text-center text-xl font-semibold text-gray-900 capitalize transition-all duration-500 group-hover:text-blue-400"
+        >
+          {{ $html := .Param "stine" }}{{ $html | safeHTML }}
+        </h3>
+        <span
+          class="block text-center text-gray-400 transition-all duration-500 group-hover:text-gray-900"
+          >{{ $html := .Param "stine_affiliation" }}{{ $html | safeHTML }}</span
+        >
+        <a
+          href="#"
+          target="_blank"
+          class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
+          >{{ .Param "link_profile_text" }}</a
+        >
+        <div class="text-sm text-gray-500">
+          {{ $html := .Param "stine_bio" }}{{ $html | safeHTML }}
+        </div>
+      </div>
     </div>
   </div>
 </section>

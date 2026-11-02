@@ -26,10 +26,15 @@ draft = false
     susanna_url = 'https://orcid.org/0009-0008-6521-8066'
     susanna_bio = 'Susanna is part of the <strong>ACCESS4ALL</strong> project. Her dissertation focuses on the knowledge, skills, and experience of EU public affairs professionals and how this informs their access to policymakers. She holds a Master’s degree in Socio-Ecological Economics and Policy from the Vienna University of Economics and Business.'
 
-    sandra = 'Sandra Martinez B&ouml;hme'
+    sandra = 'Sandra Martinez-B&ouml;hme'
     sandra_affiliation = 'PhD Candidate in Political Science<br />Maastricht University'
     sandra_url = 'https://orcid.org/0009-0006-7758-8991'
     sandra_bio = 'Sandra is part of the <strong>ACCESS4ALL</strong> project. Her dissertation focuses on the political ideology of EU public affairs professionals and how this informs their representative role and access to policymakers. She holds a Research Master degree in European Studies from Maastricht University where she specialised in democracy and representation as well as quantitative methods.'
+
+    stine = 'Stine Bartram'
+    stine_affiliation = 'PhD Candidate in Political Science<br />Maastricht University'
+    stine_url = '#'
+    stine_bio = 'Stine is part of the <a href="../lobbylies/" target="_new">LobbyLies project</a>, which is closely tied to the <strong>ACCESS4ALL</strong> project. Her dissertation focuses on the use of disinformation in EU Lobbying. She holds a Research Master degree in European Studies from Maastricht University where she specialised in EU and the world as well as quantitative methods.'
 
     research_assistants_body= 'We would like to gratefully thank our research assistants Jelle Paalman and Lorenzo Pellegrini for their assistance with the data collection.'
 +++
@@ -65,8 +70,8 @@ If policymakers primarily interact with lobbyists from similar backgrounds, it c
 
 Similarity Attraction Theory: We explore this psychological theory within the context of lobbying for the first time. Our hypothesis: policymakers are more likely to meet with lobbyists who share similar characteristics (age, gender, ethnicity, education).
 
-- Focus on the EU: We will create a comprehensive database of EU lobbyists and their socio-demographic profiles.
-- Research Methods: We will combine desk research, focus groups, surveys, and experiments to test our hypotheses.
+- Focus on the EU: We have created a comprehensive database of EU lobbyists and their socio-demographic profiles.
+- Research Methods: We combine desk research, focus groups, surveys, and experiments to test our hypotheses.
 
 &nbsp;
 
