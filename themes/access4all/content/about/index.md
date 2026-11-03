@@ -33,7 +33,7 @@ draft = false
 
     stine = 'Stine Bartram'
     stine_affiliation = 'PhD Candidate in Political Science<br />Maastricht University'
-    stine_url = '#'
+    stine_url = 'https://orcid.org/0009-0003-3772-5929'
     stine_bio = 'Stine is part of the <a href="../lobbylies/" target="_new">LobbyLies project</a>, which is closely tied to the <strong>ACCESS4ALL</strong> project. Her dissertation focuses on the use of disinformation in EU Lobbying. She holds a Research Master degree in European Studies from Maastricht University where she specialised in EU and the world as well as quantitative methods.'
 
     research_assistants_body= 'We would like to gratefully thank our research assistants Jelle Paalman and Lorenzo Pellegrini for their assistance with the data collection.'

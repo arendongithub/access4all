@@ -1,16 +1,22 @@
 {{ define "main" }}
 
-<!-- Project Description -->
-<section class="py-6">
-  <div class="mx-auto max-w-5xl px-6">
-    <h1 class="m-12 text-center text-4xl font-semibold text-blue-400">
+<!--Project description -->
+<div class="mx-auto mt-6 flex max-w-5xl px-6 sm:gap-x-6">
+  <div class="hidden sm:block sm:w-1/2">
+    {{ with resources.Get "images/eu_image_monochrome.png" }}
+    <img
+      src="{{ .RelPermalink }}"
+      class="aspect-square w-full rounded-lg object-cover shadow-2xl"
+    />
+    {{ end }}
+  </div>
+  <div class="sm:w-1/2">
+    <h1 class="px-2 text-2xl font-bold text-blue-950">
       {{ .Param "heading_project" }}
     </h1>
-    <div class="mx-auto max-w-5xl px-6">
-      <div class="text-base text-gray-900">{{ .Content }}</div>
-    </div>
+    <div class="mt-2 p-2 text-gray-700">{{ .Content }}</div>
   </div>
-</section>
+</div>
 
 <hr class="mx-auto my-12 max-w-5xl border-t border-gray-300 px-6" />
 

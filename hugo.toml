@@ -16,20 +16,20 @@ theme = 'access4all'
   url = '/'
   weight = 10
 [[menu.main]]
-  name = 'LobbyLies'
-  url = '/lobbylies'
-  weight = 20
-[[menu.main]]
   name = 'About'
   url = '/about'
-  weight = 30
+  weight = 20
 [[menu.main]]
   name = 'Publications'
   url = '/publications'
-  weight = 40
+  weight = 30
 [[menu.main]]
   name = 'Outreach & Media'
   url = '/outreach-media'
+  weight = 40
+[[menu.main]]
+  name = 'LobbyLies'
+  url = '/lobbylies'
   weight = 50
 
 [frontmatter]
