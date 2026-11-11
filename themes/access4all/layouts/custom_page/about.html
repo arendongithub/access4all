@@ -1,16 +1,9 @@
 {{ define "main" }}
 
 <!--Project description -->
-<div class="mx-auto mt-6 flex max-w-5xl px-6 sm:gap-x-6">
-  <div class="hidden sm:block sm:w-1/2">
-    {{ with resources.Get "images/eu_image_monochrome.png" }}
-    <img
-      src="{{ .RelPermalink }}"
-      class="aspect-square w-full rounded-lg object-cover shadow-2xl"
-    />
-    {{ end }}
-  </div>
-  <div class="sm:w-1/2">
+
+<div class="mx-auto mt-6 max-w-5xl px-6">
+  <div>
     <h1 class="px-2 text-2xl font-bold text-blue-950">
       {{ .Param "heading_project" }}
     </h1>
@@ -47,7 +40,7 @@
           }}</span
         >
         <a
-          href="#"
+          href="{{ .Param "iskander_url" }}"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a
@@ -59,7 +52,7 @@
       <div class="group block lg:col-span-1">
         <div class="relative mb-6">
           <img
-            src='{{ with .Resources.Get "img/britt-vande-walle.jpg" }}{{ .RelPermalink }}{{ end }}'
+            src='{{ with .Resources.Get "img/britt-vande-walle.jpeg" }}{{ .RelPermalink }}{{ end }}'
             alt='{{ .Param "britt" }}'
             class="mx-auto h-40 w-40 rounded-full border border-solid border-transparent object-cover transition-all duration-500 group-hover:border-blue-400"
           />
@@ -74,7 +67,7 @@
           >{{ $html := .Param "britt_affiliation" }}{{ $html | safeHTML }}</span
         >
         <a
-          href="#"
+          href="{{ .Param "britt_url" }}"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a
@@ -102,7 +95,7 @@
           }}</span
         >
         <a
-          href="#"
+          href="{{ .Param "susanna_url" }}"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a
@@ -130,7 +123,7 @@
           }}</span
         >
         <a
-          href="#"
+          href="{{ .Param "sandra_url" }}"
           target="_blank"
           class="block text-center text-blue-400 transition-colors duration-300 hover:text-blue-600"
           >{{ .Param "link_profile_text" }}</a

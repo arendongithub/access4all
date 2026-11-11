@@ -8,7 +8,7 @@ theme = 'access4all'
     dir = ':cacheDir/images'
 
 [params]
-  nwo_credit = 'This project is funded by the NWO, grant number VI.Vidi.221R.036'
+  nwo_credit = 'This project is funded by the NWO, Grant ID:  https://doi.org/10.61686/RVGED67000'
 
 [menu]
 [[menu.main]]
